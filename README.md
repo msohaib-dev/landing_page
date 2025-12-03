@@ -1,22 +1,22 @@
-DELTARQ – Enterprise Security Made Simple
+**🚀 DELTARQ – Enterprise Security Made Simple**
 
-Live Demo
+🌐 Live Demo
 
 Overview
 
 DELTARQ helps startups and growing businesses win enterprise customers faster by providing SOC 2 compliance, cybersecurity, and audit-ready infrastructure.
 Our mission is to turn security into a competitive advantage, enabling businesses to scale with trust, credibility, and confidence.
 
-This project is a landing page for DELTARQ, built with React, Tailwind CSS, and modern web technologies, showcasing our services, process, and expertise.
+This repository contains the landing page for DELTARQ, built with React, Tailwind CSS, and modern web technologies, showcasing our services, process, and expertise.
 
-Live Demo
+🎯 Live Demo
 
 Check out the live project here:
-🌐 https://landing-page-lyart-theta-72.vercel.app
+https://landing-page-lyart-theta-72.vercel.app
 
-Services Highlighted on the Website
+🛠 Services Highlighted
 
-We provide full cybersecurity and compliance support for startups and enterprises:
+We provide full cybersecurity and compliance support:
 
 SOC 2 Type I & II – Complete audit preparation and certification support
 
@@ -32,19 +32,19 @@ Penetration Testing + Cloud Security – Threat detection and prevention
 
 Automation & Integration – Drata, Vanta, Secureframe, AWS, Azure, Jira, GitHub, GitLab
 
-Why Choose DELTARQ
+💡 Why Choose DELTARQ
 
-12 Weeks to Audit-Ready Readiness – Fast, clear, and actionable guidance
+12 Weeks to Audit-Ready Readiness – Fast, clear, actionable guidance
 
-Built by Engineers + Risk Experts – Deep technical and compliance knowledge
+Engineers + Risk Experts – Deep technical and compliance knowledge
 
-Stage-Based Pricing – Flexible plans depending on your business stage
+Stage-Based Pricing – Flexible plans for startups and scale-ups
 
-Continuous Support – From evidence collection to audit preparation
+Continuous Support – Evidence collection, audit prep, and more
 
 “You build the product. We build the trust.”
 
-Who We Serve
+👥 Who We Serve
 
 SaaS startups targeting US/EU enterprise clients
 
@@ -52,29 +52,21 @@ FinTech platforms handling payments and sensitive data
 
 Healthcare startups managing patient data securely
 
-Project Structure
-DELTARQ/
-├─ public/
-│  └─ index.html
-├─ src/
-│  ├─ components/        # React components for sections & UI
-│  ├─ hooks/             # Custom hooks
-│  ├─ lib/               # Utility functions
-│  ├─ pages/             # Page components
-│  ├─ styles/            # CSS / Tailwind styles
-│  ├─ App.js
-│  └─ index.js
-├─ package.json
-├─ tailwind.config.js
-├─ postcss.config.js
-└─ README.md
+⚡ What We Deliver
 
+Full compliance scope: SOC 2 Type I & II, ISO 27001, HIPAA / GDPR readiness
 
-Built with React, Tailwind CSS, and modern frontend best practices.
+AppSec & SDLC Hardening
 
-Fully responsive, fast, and optimized for enterprise clients.
+Vendor Risk & Governance programs
 
-Technologies Used
+Penetration Testing + Cloud Security
+
+Automation & Tool Integration
+
+Not just SOC 2 — full cybersecurity coverage when needed.
+
+🖥 Technologies Used
 
 React – Component-based frontend
 
@@ -82,13 +74,13 @@ Tailwind CSS – Modern, utility-first styling
 
 Vercel – Hosting and deployment
 
-JavaScript (ES6+) – Dynamic UI and functionality
+JavaScript (ES6+) – Dynamic UI functionality
 
 PostCSS – CSS processing
 
-Deployment
+📦 Deployment
 
-This project is hosted on Vercel for instant global availability:
+Hosted on Vercel for instant global availability:
 
 # Clone the repo
 git clone https://github.com/msohaib-dev/landing_page.git
@@ -103,13 +95,12 @@ npm start
 npm run build
 
 
-After building, the production-ready files are served via Vercel at:
+After building, the production-ready files are served via Vercel:
 https://landing-page-lyart-theta-72.vercel.app
 
-Contact & Client Engagement
+📞 Contact & Client Engagement
 
-Interested in enterprise security or SOC 2 compliance for your startup?
-Get in touch:
+Want to secure enterprise deals faster? Get in touch:
 
 Email: sohaib.015.m@gmail.com
 
@@ -117,16 +108,16 @@ WhatsApp: +92 312 6745890
 
 LinkedIn: Connect
 
-Why This Repo Exists
+📌 Why This Repo Exists
 
-This GitHub repo is not just a showcase of web design skills. It is a client-attracting tool:
+This GitHub repository is client-focused, not just a showcase:
 
-Potential clients can see a live, functional landing page.
+Potential clients can see a live, functional landing page
 
-Visitors understand our services, process, and expertise.
+Highlights services, process, and expertise
 
-Enables direct inquiries and leads from GitHub and live demo.
+Enables direct inquiries and leads from GitHub and live demo
 
-License
+🔒 License
 
-This project is proprietary. Contact DELTARQ for any commercial usage or partnership inquiries.
+This project is proprietary. Contact DELTARQ for commercial use or partnership inquiries.
