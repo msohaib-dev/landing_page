@@ -32,7 +32,7 @@ const Header = () => {
     >
       <div className="header-content">
         <img 
-          src="https://i.ibb.co/qb9yd8k/deltar-w-m-removebg-preview.png" 
+          src="https://i.ibb.co/9HKC938t/DELTARQ-w-removebg-preview.png" 
           alt="DELTARQ" 
           className="dark-logo"
         />
